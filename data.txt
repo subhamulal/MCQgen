@@ -1,0 +1,1 @@
+Artificial Intelligence (AI) refers to the simulation of human intelligence in machines. These machines are designed to think, learn, and make decisions like humans. AI is used in areas such as robotics, healthcare, finance, and customer service. A key branch of AI is machine learning, where systems improve through experience.
